@@ -50,9 +50,14 @@ Final Response
 
 👥 Team
 
-Team Code Warriors:-@Dinesh-Ganishetty
-                    @puvvadaaishwarya-stack
+Team Code Warriors:-
+@Dinesh-Ganishetty
+@puvvadaaishwarya-stack
 
 📄 License
 
 This project is intended for educational and demonstration purposes.
+
+Tages:-
+#NexusAI #MultiAgentAl
+#ArtificialIntelligence #GenerativeAl #LLM #MachineLearning #RAG #VisionAl #Automation #OpenSource #GitHub #TeamCodeWarriors
